@@ -2,9 +2,11 @@
 
 ##
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,bash,c,cpp,js,ts,react,nextjs,mongodb,postgresql,nodejs,firebase,supabase,dart,tailwind,figma" />
-</a>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,bash,c,cpp,js,ts,react,nextjs,mongodb,postgresql,nodejs,firebase,supabase,dart,tailwind,figma" />
+  </a>
+</div>
 
 ##
 
@@ -16,3 +18,4 @@
 
 ![Wormav GitHub stats](https://github-readme-stats.vercel.app/api?username=Wormav&show_icons=true&theme=radical)
 
+</div>
