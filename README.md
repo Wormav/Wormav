@@ -3,7 +3,7 @@
 ## ► Skills and Stats
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,linux,c,cpp,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,bash,c,cpp,js,ts,react,nextjs,mongodb,postgresql,nodejs,firebase,supabase,dart,tailwind,figma" />
 </a>
 
 ##
