@@ -12,3 +12,7 @@
   <img src="https://badge.mediaplus.ma/darkblue/jlorette?1337Badge=off&UM6P=off" alt="jlorette's 42 stats" />
 </a>
 
+##
+
+![Wormav GitHub stats](https://github-readme-stats.vercel.app/api?username=Wormav&show_icons=true&theme=radical)
+
