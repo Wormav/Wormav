@@ -1,6 +1,6 @@
 <div align="center">
 
-## ► Skills and Stats
+##
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,bash,c,cpp,js,ts,react,nextjs,mongodb,postgresql,nodejs,firebase,supabase,dart,tailwind,figma" />
