@@ -6,15 +6,11 @@
   <img src="https://badge.mediaplus.ma/darkblue/jlorette?1337Badge=off&UM6P=off" alt="jlorette's 42 stats" />
 </a>
 
----
-
 ## 🛠️ Tools & Environments
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,bash,apple,vscode,figma" />
 </a>
-
----
 
 ## 💻 Programming Languages
 
@@ -22,15 +18,11 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,dart" />
 </a>
 
----
-
 ## 🌐 Web Development
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
 </a>
-
----
 
 ## 📱 Mobile Development
 
@@ -38,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=react,flutter" />
 </a>
 
----
 
 ## 🛢️ Databases & Back-end
 
@@ -46,7 +37,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase" />
 </a>
 
----
 
 ## 📊 GitHub Stats
 
