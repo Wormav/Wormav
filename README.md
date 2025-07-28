@@ -21,7 +21,7 @@
 ## 🌐 Web Development
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,nextjs,nodejs,tailwind" />
 </a>
 
 ## 📱 Mobile Development
