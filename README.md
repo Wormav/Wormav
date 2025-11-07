@@ -2,9 +2,9 @@
   
 # 👨‍💻 Jérémy Lorette — Web Developer & 42 Student
 
-<a href="https://github.com/oakoudad/badge42">
+<!-- <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/darkblue/jlorette?1337Badge=off&UM6P=off" alt="jlorette's 42 stats" />
-</a>
+</a> -->
 
 ## 🛠️ Tools & Environments
 
