@@ -15,7 +15,7 @@
 ## 💻 Programming Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,dart,python,solidity" />
 </a>
 
 ## 🌐 Web Development
