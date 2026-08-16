@@ -36,10 +36,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase" />
 </a>
-
-
-## 📊 GitHub Stats
-
-![jlorette GitHub stats](https://github-readme-stats.vercel.app/api?username=Wormav&show_icons=true&theme=algolia)
-
-</div>
