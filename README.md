@@ -1,6 +1,5 @@
 <div align="center">
 
-<h3><code>wormav@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -13,7 +12,6 @@
 <br>
 <br>
 
-<h3><code>wormav@github ~ $ ./contributions.sh</code></h3>
 
 <!-- L'image de contribution animée générée par les actions GitHub -->
 <img src="./contrib-heatmap.svg" width="860" alt="Jérémy's GitHub contribution graph" />
@@ -21,7 +19,6 @@
 <br>
 <br>
 
-<h3><code>wormav@github ~ $ ./links.sh</code></h3>
 
 <p><b>Web Developer · 42 Student</b></p>
 
@@ -32,7 +29,6 @@
 <br>
 <br>
 
-<h3><code>wormav@github ~ $ ./skills.sh</code></h3>
 
 <br>
 
