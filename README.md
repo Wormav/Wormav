@@ -6,7 +6,7 @@
 <tr>
 <!-- Tu devras générer ces images via les scripts de AVIVASHISHTA29, ou utiliser des images statiques en attendant -->
 <td valign="top"><img src="./wormav-ascii.svg" width="370" alt="Jérémy Lorette — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="WORMAV — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./cv-noir.svg" width="490" alt="Jérémy Lorette — Mini CV" /></td>
 </tr>
 </table>
 
