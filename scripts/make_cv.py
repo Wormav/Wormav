@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="550" height="433" viewBox="0 0 550 433">
+import sys
+
+svg = """<svg xmlns="http://www.w3.org/2000/svg" width="550" height="433" viewBox="0 0 550 433">
 <defs>
   <style>
     .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #22D3EE; font-weight: bold; }
@@ -50,3 +52,7 @@
   </rect>
 </g>
 </svg>
+"""
+
+with open("cv-noir.svg", "w") as f:
+    f.write(svg)
