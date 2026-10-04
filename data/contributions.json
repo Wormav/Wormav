@@ -1,22 +1,22 @@
 {
   "username": "Wormav",
-  "generated_at": "2026-10-03T11:40:11Z",
+  "generated_at": "2026-10-04T12:22:35Z",
   "range": {
-    "start": "2025-09-28",
-    "end": "2026-10-03"
+    "start": "2025-10-05",
+    "end": "2026-10-04"
   },
-  "total_contributions": 2133,
-  "active_days": 371,
+  "total_contributions": 2082,
+  "active_days": 365,
   "avg_per_active_day": 5.7,
   "current_streak": {
-    "length": 371,
-    "start": "2025-09-28",
-    "end": "2026-10-03"
+    "length": 365,
+    "start": "2025-10-05",
+    "end": "2026-10-04"
   },
   "longest_streak": {
-    "length": 371,
-    "start": "2025-09-28",
-    "end": "2026-10-03"
+    "length": 365,
+    "start": "2025-10-05",
+    "end": "2026-10-04"
   },
   "best_day": {
     "date": "2025-11-30",
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-09",
-      "total": 23
-    },
-    {
       "month": "2025-10",
-      "total": 248
+      "total": 214
     },
     {
       "month": "2025-11",
@@ -77,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 34
+      "total": 40
     }
   ],
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 12
-    },
-    {
-      "date": "2025-09-29",
-      "count": 10
-    },
-    {
-      "date": "2025-09-30",
-      "count": 1
-    },
-    {
-      "date": "2025-10-01",
-      "count": 21
-    },
-    {
-      "date": "2025-10-02",
-      "count": 6
-    },
-    {
-      "date": "2025-10-03",
-      "count": 5
-    },
-    {
-      "date": "2025-10-04",
-      "count": 2
-    },
     {
       "date": "2025-10-05",
       "count": 2
@@ -1563,7 +1531,11 @@
     },
     {
       "date": "2026-10-03",
-      "count": 4
+      "count": 7
+    },
+    {
+      "date": "2026-10-04",
+      "count": 3
     }
   ]
 }
